@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="item_padding">20dp</dimen>
+    <dimen name="scroll_view_height">38dp</dimen>
+</resources>

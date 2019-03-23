@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">HorizontalScrollPickViewDemo</string>
+
+    <string name="item1">item1</string>
+    <string name="item2">item2</string>
+    <string name="item3">item3</string>
+    <string name="item4">item4</string>
+    <string name="item5">item5</string>
+    <string name="item6">item6</string>
+    <string name="item7">item7</string>
+    <string name="item8">item8</string>
+    <string name="item9">item9</string>
+
+    <string-array name="items">
+        <item>@string/item1</item>
+        <item>@string/item2</item>
+        <item>@string/item3</item>
+        <item>@string/item4</item>
+        <item>@string/item5</item>
+        <item>@string/item6</item>
+        <item>@string/item7</item>
+        <item>@string/item8</item>
+        <item>@string/item9</item>
+
+    </string-array>
+</resources>
